@@ -1,3 +1,2 @@
-class Ingredient <ActiveRecord::Base[4.2]
-  belongs_to :recipe
+class Ingredient < ActiveRecord::Base
 end
